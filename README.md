@@ -1,4 +1,4 @@
-# gitStuffed2021
+# gitStuff2021
 
 ## Kia ora everyone
 
